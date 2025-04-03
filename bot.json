@@ -1,0 +1,614 @@
+{
+  "O que é o desenvolvimento sustentável?": {
+    "respostas_padroes": [
+      "A capacidade de um país continuar a crescer economicamente mas ao mesmo tempo conservar os seus recursos naturais.",
+      "Garantir que as gerações futuras tenham recursos.",
+      "Equilíbrio entre economia, ambiente e sociedade.",
+      "Desenvolver-se sem prejudicar o planeta.",
+      "Permitir o desenvolvimento económico sem comprometer os recursos naturais.",
+      "É o desenvolvimento que atende às necessidades do presente sem comprometer a capacidade das gerações futuras.",
+      "Uma forma de crescimento económico que preserva o meio ambiente e promove a justiça social.",
+      "Desenvolvimento que integra a proteção ambiental com a promoção do bem-estar social e económico."
+    ],
+    "palavras_chave": [
+      "crescimento económico",
+      "recursos naturais",
+      "gerações futuras",
+      "equilíbrio",
+      "sustentabilidade",
+      "desenvolvimento"
+    ],
+    "sinonimos": {
+      "desenvolvimento sustentável": [
+        "crescimento sustentável",
+        "desenvolvimento equilibrado",
+        "crescimento sem esgotamento dos recursos",
+        "desenvolvimento responsável"
+      ],
+      "recursos naturais": [
+        "meio ambiente",
+        "bens naturais",
+        "riquezas naturais"
+      ],
+      "crescimento económico": [
+        "desenvolvimento económico",
+        "expansão da economia",
+        "incremento económico"
+      ],
+      "gerações futuras": [
+        "próximas gerações",
+        "descendentes"
+      ]
+    }
+  },
+  "Quais são os três pilares do desenvolvimento sustentável?": {
+    "respostas_padroes": [
+      "Económico, social e ambiental.",
+      "Economia, sociedade e ambiente.",
+      "Crescimento económico, bem-estar social e proteção ambiental.",
+      "Sustentabilidade assenta na economia, justiça social e conservação ambiental.",
+      "Os pilares fundamentais são o crescimento económico, a equidade social e a preservação ambiental.",
+      "A base do desenvolvimento sustentável está na combinação de fatores económicos, sociais e ambientais.",
+      "Os três pilares essenciais são o desenvolvimento económico, a responsabilidade social e a proteção ambiental.",
+      "São os três eixos: ambiente, sociedade e economia."
+    ],
+    "palavras_chave": [
+      "económico",
+      "social",
+      "ambiental",
+      "sustentabilidade",
+      "equilíbrio"
+    ],
+    "sinonimos": {
+      "económico": [
+        "crescimento económico",
+        "desenvolvimento económico",
+        "incremento económico"
+      ],
+      "social": [
+        "bem-estar social",
+        "justiça social",
+        "equidade social"
+      ],
+      "ambiental": [
+        "proteção ambiental",
+        "preservação da natureza",
+        "conservação ambiental"
+      ]
+    }
+  },
+  "Dá um exemplo de uma prática sustentável no dia a dia.": {
+    "respostas_padroes": [
+      "Proteger a vida marinha e terrestre.",
+      "Poupar água e energia.",
+      "Reciclar e reutilizar materiais.",
+      "Usar transportes públicos ou andar a pé.",
+      "Proteger a biodiversidade e reduzir a poluição.",
+      "Optar por produtos reciclados e minimizar o desperdício alimentar.",
+      "Adotar hábitos como separar o lixo e economizar recursos em casa.",
+      "Combater as mudanças climáticas.",
+      "Cultivar uma horta ou praticar jardinagem orgânica.",
+      "Reduzir o consumo de plástico e optar por embalagens biodegradáveis.",
+      "Utilizar fontes de energia renovável, como painéis solares."
+    ],
+    "palavras_chave": [
+      "práticas sustentáveis",
+      "reduzir consumo",
+      "reciclar",
+      "poupar água",
+      "poupar energia",
+      "proteger"
+    ],
+    "sinonimos": {
+      "reduzir consumo": [
+        "diminuir o consumo",
+        "evitar desperdícios"
+      ],
+      "reciclar": [
+        "separar o lixo",
+        "fazer recolha seletiva"
+      ],
+      "poupar água": [
+        "economizar água",
+        "reduzir o desperdício de água"
+      ],
+      "poupar energia": [
+        "economizar eletricidade",
+        "usar energia de forma eficiente"
+      ]
+    }
+  },
+  "Porque é importante reduzir a poluição?": {
+    "respostas_padroes": [
+      "Para proteger o meio ambiente e a saúde.",
+      "Para melhorar a qualidade do ar e da água.",
+      "Para combater as mudanças climáticas.",
+      "Para preservar a biodiversidade.",
+      "Para tornar as cidades mais limpas e saudáveis.",
+      "Reduzir a poluição é essencial para evitar doenças e proteger a natureza.",
+      "Menos poluição significa um ambiente mais seguro e sustentável para todos.",
+      "A redução da poluição é vital para garantir a saúde pública e a preservação dos ecossistemas.",
+      "Porque a poluição afeta a saúde dos seres vivos e prejudica os ecossistemas.",
+      "Para assegurar um ambiente limpo que promova a qualidade de vida."
+    ],
+    "palavras_chave": [
+      "reduzir poluição",
+      "proteger meio ambiente",
+      "saúde",
+      "qualidade do ar",
+      "qualidade da água"
+    ],
+    "sinonimos": {
+      "reduzir poluição": [
+        "diminuir a poluição",
+        "controlar a poluição"
+      ],
+      "proteger meio ambiente": [
+        "preservar a natureza",
+        "cuidar do planeta"
+      ],
+      "qualidade do ar": [
+        "ar puro",
+        "melhorar o ar"
+      ],
+      "qualidade da água": [
+        "água limpa",
+        "proteger a água"
+      ]
+    }
+  },
+  "O que significa a expressão ‘Não existe planeta B’?": {
+    "respostas_padroes": [
+      "Só temos um planeta para viver.",
+      "Precisamos cuidar da Terra, pois não há alternativa.",
+      "A sobrevivência depende de preservar os recursos do planeta.",
+      "Se destruirmos o planeta, não teremos outro para viver.",
+      "Não há outro planeta à nossa disposição; por isso, devemos cuidar bem do que temos.",
+      "Significa que a Terra é única e irrepetível, devendo ser protegida.",
+      "Não podemos contar com um segundo lar, por isso devemos conservar o que temos.",
+      "O planeta Terra é insubstituível e o único lar possível para a humanidade."
+    ],
+    "palavras_chave": [
+      "planeta",
+      "sustentabilidade",
+      "preservação",
+      "recursos naturais"
+    ],
+    "sinonimos": {
+      "preservação": [
+        "proteção",
+        "cuidado com a natureza"
+      ],
+      "recursos naturais": [
+        "meio ambiente",
+        "bens naturais"
+      ]
+    }
+  },
+  "Quais são as principais formas físicas da Terra?": {
+    "respostas_padroes": [
+      "Continentes, oceanos, montanhas e rios.",
+      "Planícies, desertos, vales e serras.",
+      "Formas terrestres e aquáticas que moldam o planeta.",
+      "Relevo e superfícies naturais da Terra.",
+      "As principais formas incluem continentes, oceanos, montanhas, planícies, desertos e vales.",
+      "A Terra apresenta diversos relevos, como continentes, oceanos, montanhas e rios, que definem sua paisagem.",
+      "Os elementos físicos predominantes são os continentes, oceanos, montanhas e rios.",
+      "As formas físicas incluem também desertos, colinas e extensões planas que caracterizam diferentes paisagens."
+    ],
+    "palavras_chave": [
+      "continentes",
+      "oceanos",
+      "relevo",
+      "montanhas",
+      "rios"
+    ],
+    "sinonimos": {
+      "relevo": [
+        "superfície terrestre",
+        "formas do terreno"
+      ]
+    }
+  },
+  "O que é um oceano?": {
+    "respostas_padroes": [
+      "Uma grande massa de água salgada.",
+      "Cobre a maior parte da superfície da Terra.",
+      "É maior que um mar e separa continentes.",
+      "Regula o clima e abriga vida marinha.",
+      "Um oceano é uma vasta extensão de água salgada que influencia o clima global.",
+      "É a maior forma de água no planeta, essencial para a vida marinha.",
+      "Trata-se de uma imensa área de água salgada que desempenha um papel crucial no equilíbrio climático.",
+      "Um vasto corpo de água salgada que cobre grande parte da Terra e atua na regulação do clima global."
+    ],
+    "palavras_chave": [
+      "água salgada",
+      "mar",
+      "superfície terrestre"
+    ],
+    "sinonimos": {
+      "mar": [
+        "grande extensão de água",
+        "massa de água salgada"
+      ]
+    }
+  },
+  "Quais são os continentes do planeta?": {
+    "respostas_padroes": [
+      "América, Europa, África, Ásia, Oceania e Antártida.",
+      "Os continentes são América, Europa, África, Ásia, Oceania e Antártida.",
+      "A Terra é dividida em seis continentes que abrigam diversas culturas e países: América, Europa, África, Ásia, Oceania e Antártida.",
+      "Os seis continentes que compõem o planeta são América, Europa, África, Ásia, Oceania e Antártida.",
+      "Os continentes formam a massa terrestre do nosso planeta e são: América, Europa, África, Ásia, Oceania e Antártida."
+    ],
+    "palavras_chave": [
+      "continentes",
+      "geografia",
+      "superfície terrestre"
+    ],
+    "sinonimos": {
+      "geografia": [
+        "estudo da Terra",
+        "ciência da superfície terrestre"
+      ]
+    }
+  },
+  "O que é um recurso hídrico?": {
+    "respostas_padroes": [
+      "Qualquer fonte de água disponível, como rios, lagos e lençóis subterrâneos.",
+      "Água em estado natural que pode ser utilizada para consumo e agricultura.",
+      "Fonte de água presente na natureza, essencial para a vida.",
+      "Recursos como rios e lagos que fornecem água.",
+      "Um recurso hídrico é qualquer forma de água disponível na natureza, seja em rios, lagos ou lençóis freáticos.",
+      "São fontes de água, como rios e lagos, que permitem o abastecimento de consumo e agricultura.",
+      "Um recurso hídrico abrange todas as fontes de água que podem ser exploradas para uso humano e agrícola.",
+      "Qualquer fonte natural de água, indispensável para a vida dos seres humanos, animais e plantas."
+    ],
+    "palavras_chave": [
+      "água",
+      "rios",
+      "lagos",
+      "lençóis subterrâneos",
+      "recurso hídrico"
+    ],
+    "sinonimos": {
+      "recurso hídrico": [
+        "fonte de água",
+        "bacia hidrográfica"
+      ]
+    }
+  },
+  "Dá um exemplo de uma forma de relevo.": {
+    "respostas_padroes": [
+      "Uma montanha.",
+      "Uma planície.",
+      "Uma serra.",
+      "Um vale.",
+      "Exemplo: uma montanha, que é uma elevação natural da superfície.",
+      "Pode ser uma planície, caracterizada por uma vasta área plana.",
+      "Uma serra, que é um conjunto de montanhas com elevações contínuas.",
+      "Uma colina, que é uma elevação mais suave comparada com uma montanha."
+    ],
+    "palavras_chave": [
+      "forma de relevo",
+      "montanha",
+      "planície",
+      "serra",
+      "vale"
+    ],
+    "sinonimos": {
+      "montanha": [
+        "serra",
+        "elevação"
+      ],
+      "planície": [
+        "campo",
+        "extensão plana"
+      ]
+    }
+  },
+  "Qual é a diferença entre um rio e um oceano?": {
+    "respostas_padroes": [
+      "Um rio é um curso de água doce; um oceano é uma grande massa de água salgada.",
+      "Rios desaguam em oceanos e são menores, enquanto os oceanos são vastos e salgados.",
+      "O rio transporta água doce; o oceano contém água salgada.",
+      "Rios têm limites definidos; oceanos cobrem grandes áreas e separam continentes.",
+      "A principal diferença é que os rios possuem água doce e os oceanos água salgada.",
+      "Enquanto os rios são canais de água doce, os oceanos são imensas áreas de água salgada.",
+      "A distinção fundamental é que os rios fluem com água doce, enquanto os oceanos são extensos corpos de água salgada.",
+      "Um rio é um curso de água com fluxo definido e geralmente água doce, enquanto um oceano é uma vasta extensão de água salgada sem limites definidos."
+    ],
+    "palavras_chave": [
+      "rio",
+      "oceano",
+      "água doce",
+      "água salgada",
+      "diferença"
+    ],
+    "sinonimos": {
+      "rio": [
+        "curso de água",
+        "corrente de água doce"
+      ],
+      "oceano": [
+        "massa de água salgada",
+        "grande mar"
+      ]
+    }
+  },
+  "O que é um vale?": {
+    "respostas_padroes": [
+      "Uma área baixa entre montanhas ou colinas, geralmente com um rio.",
+      "Zona de menor altitude cercada por elevações.",
+      "Espaço entre montes onde a água pode escoar.",
+      "Uma depressão natural no relevo.",
+      "Um vale é uma região de baixa altitude entre elevações, frequentemente atravessada por um curso de água.",
+      "Caracteriza-se por ser uma área rebaixada, delimitada por montanhas ou colinas.",
+      "É uma área natural rebaixada, geralmente com um rio, situada entre montanhas ou colinas.",
+      "É uma depressão na superfície da Terra, muitas vezes formada pela erosão e atravessada por um curso de água."
+    ],
+    "palavras_chave": [
+      "vale",
+      "área baixa",
+      "montanhas",
+      "colinas",
+      "depressão",
+      "rio"
+    ],
+    "sinonimos": {
+      "vale": [
+        "depressão",
+        "planície baixa"
+      ]
+    }
+  },
+  "Quais são os principais recursos hídricos existente em Portugal?": {
+    "respostas_padroes": [
+      "Os principais recursos hídricos em Portugal incluem rios, ribeiros, lagos, lagoas e oceano.",
+      "Existem diversas albufeiras que garantem o armazenamento de água para abastecimento e produção de energia.",
+      "Os aquíferos subterrâneos são fontes essenciais para o fornecimento de água potável.",
+      "A ação humana pode reduzir a disponibilidade de água potável.",
+      "Os recursos hídricos em Portugal são fundamentais para a agricultura, indústria e consumo humano.",
+      "Rios, ribeiros, lagos, lagoas e oceano.",
+      "Além de rios e lagos, Portugal dispõe de albufeiras e aquíferos que sustentam o abastecimento de água no país."
+    ],
+    "palavras_chave": [
+      "rios",
+      "lagos",
+      "ribeiros",
+      "lagos",
+      "oceando",
+      "albufereira"
+    ],
+    "sinonimos": {
+      "rios": [
+        "cursos de água",
+        "correntes naturais"
+      ],
+      "lagos": [
+        "massas de água doce",
+        "reservatórios naturais"
+      ],
+      "aquíferos": [
+        "reservas subterrâneas de água"
+      ],
+      "albufeiras": [
+        "barragens",
+        "reservatórios artificiais"
+      ]
+    }
+  },
+  "O que são agentes erosivos?": {
+    "respostas_padroes": [
+      "Elementos naturais que desgastam a superfície terrestre.",
+      "Forças como a água, o vento e o gelo que modificam o relevo.",
+      "Agentes naturais que causam a erosão do solo e das rochas.",
+      "Processos naturais que removem material da superfície da Terra.",
+      "São fatores naturais, como a água e o vento, que desgastam o solo e as rochas ao longo do tempo.",
+      "Agentes erosivos são elementos naturais responsáveis pela alteração do relevo através do desgaste.",
+      "Fatores como a água, o vento e o gelo atuam como agentes erosivos, modificando o terreno.",
+      "São forças naturais que, através da ação da água, vento, gelo ou até chuvas intensas, desgastam o solo e alteram a paisagem."
+    ],
+    "palavras_chave": [
+      "agentes erosivos",
+      "desgaste",
+      "vento",
+      "água",
+      "gelo"
+    ],
+    "sinonimos": {
+      "agentes erosivos": [
+        "forças erosivas",
+        "elementos de erosão"
+      ]
+    }
+  },
+  "Dá um exemplo de um agente erosivo.": {
+    "respostas_padroes": [
+      "A água dos rios.",
+      "O vento.",
+      "O gelo.",
+      "As ondas do mar.",
+      "Um exemplo é a ação da água dos rios que desgasta o solo.",
+      "O vento também é um agente erosivo que pode modificar o relevo ao transportar partículas.",
+      "As ondas do mar são um exemplo claro de agente erosivo, pois desgastam as praias.",
+      "Chuvas intensas que causam a erosão do solo em encostas."
+    ],
+    "palavras_chave": [
+      "agente erosivo",
+      "água",
+      "vento",
+      "gelo",
+      "ondas"
+    ],
+    "sinonimos": {
+      "água": [
+        "corrente de água"
+      ],
+      "vento": [
+        "brisa",
+        "ar em movimento"
+      ]
+    }
+  },
+  "O que é a erosão costeira?": {
+    "respostas_padroes": [
+      "Desgaste das praias e falésias causado pelas ondas do mar.",
+      "Processo de deterioração das zonas litorâneas pela ação do mar.",
+      "O desgaste da costa devido à ação das correntes marítimas.",
+      "A erosão das áreas costeiras pelas forças do oceano.",
+      "É o processo pelo qual as áreas litorâneas são desgastadas pela ação contínua do mar.",
+      "A erosão costeira consiste na deterioração das praias e falésias causada pelo movimento das ondas.",
+      "A ação do mar nas costas provoca a erosão, modificando as paisagens litorâneas.",
+      "É o desgaste gradual das praias e falésias, que pode levar à perda de terra por conta da ação das ondas e correntes marítimas."
+    ],
+    "palavras_chave": [
+      "erosão costeira",
+      "praias",
+      "falésias",
+      "ondas",
+      "mar"
+    ],
+    "sinonimos": {
+      "erosão costeira": [
+        "desgaste litorâneo",
+        "erosão do litoral"
+      ]
+    }
+  },
+  "Como podemos reduzir os efeitos da erosão?": {
+    "respostas_padroes": [
+      "Protegendo áreas com vegetação e construindo barreiras naturais.",
+      "Preservando dunas e florestas que estabilizam o solo.",
+      "Usando técnicas de reflorestação e obras de contenção.",
+      "Implementando medidas que evitem o desgaste excessivo das áreas costeiras.",
+      "Podemos reduzir os efeitos da erosão através da recuperação de áreas degradadas e da proteção da vegetação natural.",
+      "Medidas como a construção de barreiras e a reflorestação ajudam a controlar a erosão.",
+      "A proteção da vegetação e a implementação de obras de contenção são essenciais para reduzir a erosão.",
+      "Através da implementação de soluções de engenharia, como quebra-mares e diques, juntamente com a reabilitação de dunas e áreas verdes."
+    ],
+    "palavras_chave": [
+      "reduzir erosão",
+      "vegetação",
+      "barreiras naturais",
+      "reflorestação",
+      "proteção do solo"
+    ],
+    "sinonimos": {
+      "reduzir erosão": [
+        "diminuir o desgaste",
+        "controlar a erosão"
+      ],
+      "vegetação": [
+        "floresta",
+        "plantas",
+        "árvores"
+      ],
+      "barreiras naturais": [
+        "dunas",
+        "florestas",
+        "árvores"
+      ],
+      "reflorestação": [
+        "plantação de árvores",
+        "recuperação de florestas"
+      ]
+    }
+  },
+  "Em que estados físicos a matéria existe no nosso planeta?": {
+    "respostas_padroes": [
+      "Sólido, líquido e gasoso.",
+      "Os três estados: sólido, líquido e gasoso.",
+      "A matéria existe como sólido, líquido ou gasoso.",
+      "Estão presentes os estados sólido, líquido e gasoso.",
+      "A matéria pode ser encontrada em estado sólido, líquido e gasoso.",
+      "Existem três estados físicos: sólido, líquido e gasoso.",
+      "A matéria está presente nos estados sólido, líquido e gasoso.",
+      "A matéria manifesta-se em formas distintas: o sólido mantém forma e volume, o líquido tem volume fixo mas assume a forma do recipiente, e o gasoso não possui forma nem volume fixo."
+    ],
+    "palavras_chave": [
+      "estados físicos",
+      "sólido",
+      "líquido",
+      "gasoso"
+    ],
+    "sinonimos": {
+      "estados físicos": [
+        "formas da matéria",
+        "estados da matéria"
+      ]
+    }
+  },
+  "Como se pode caracterizar o volume e a forma dos materiais no estado líquido?": {
+    "respostas_padroes": [
+      "Têm volume fixo, mas a forma adapta-se ao recipiente.",
+      "O volume é constante e a forma varia conforme o recipiente.",
+      "Os líquidos mantêm o volume, mas não têm forma definida.",
+      "A forma dos líquidos é variável, mas o volume permanece constante.",
+      "Em líquidos, o volume não muda, mas a forma depende do recipiente que os contém.",
+      "Os líquidos apresentam volume fixo e assumem a forma do recipiente.",
+      "O volume dos líquidos é constante, embora a forma possa mudar de acordo com o recipiente.",
+      "Os líquidos têm volume fixo e não possuem forma própria, adaptando-se completamente ao espaço em que são contidos."
+    ],
+    "palavras_chave": [
+      "estado líquido",
+      "volume fixo",
+      "forma variável",
+      "recipiente"
+    ],
+    "sinonimos": {
+      "volume fixo": [
+        "quantidade constante",
+        "volume constante"
+      ]
+    }
+  },
+  "Dá um exemplo de uma transformação reversível.": {
+    "respostas_padroes": [
+      "O gelo derrete em água, que pode congelar novamente.",
+      "A fusão do gelo em água e o seu posterior congelamento.",
+      "Derreter o gelo e, depois, voltar a congelar a água.",
+      "A mudança do estado sólido para líquido, que pode ser revertida.",
+      "Quando o gelo derrete e depois volta a formar gelo, temos uma transformação reversível.",
+      "O processo de derreter o gelo para formar água e depois recongelar é um exemplo clássico.",
+      "Um exemplo de transformação reversível é o derretimento do gelo que, ao ser recongelado, volta a ser gelo.",
+      "O ciclo da água – evaporação, condensação e precipitação – é também um exemplo de transformação reversível."
+    ],
+    "palavras_chave": [
+      "transformação reversível",
+      "gelo",
+      "água",
+      "congelar"
+    ],
+    "sinonimos": {
+      "transformação reversível": [
+        "processo reversível",
+        "mudança que se pode reverter"
+      ]
+    }
+  },
+  "Qual a diferença entre uma transformação reversível e uma irreversível?": {
+    "respostas_padroes": [
+      "Reversíveis podem voltar ao estado original; irreversíveis não podem.",
+      "Transformações reversíveis podem ser revertidas, enquanto as irreversíveis não retornam ao estado inicial.",
+      "Se uma mudança pode ser revertida, é reversível; caso contrário, é irreversível.",
+      "Reversíveis permitem voltar ao estado anterior, já as irreversíveis não.",
+      "Uma transformação reversível permite o retorno ao estado original, ao contrário das irreversíveis.",
+      "A principal diferença é que as reversíveis podem ser invertidas, mas as irreversíveis não.",
+      "Em uma transformação reversível, o estado original pode ser recuperado, diferentemente das irreversíveis.",
+      "Em uma transformação reversível, o sistema pode voltar ao estado inicial, enquanto em uma irreversível, a alteração é permanente."
+    ],
+    "palavras_chave": [
+      "transformação reversível",
+      "transformação irreversível",
+      "reverter",
+      "estado original"
+    ],
+    "sinonimos": {
+      "transformação irreversível": [
+        "processo não reversível",
+        "mudança permanente"
+      ]
+    }
+  }
+}
